@@ -19,5 +19,4 @@ Local Repository – The staged changes are permanently recorded as a commit.
 
 Taken helped by 
 
-[Markdown Guide Cheat Sheet]
-(www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com#basic-syntax0)
+[Markdown Guide Cheat Sheet](www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com#basic-syntax0)
