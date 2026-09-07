@@ -13,6 +13,6 @@ Provides codes to Github.
 2.Branch:Allow to Fix problems or bugs
 3.Commit:Allows to save changes
 ## 6. What are the Stages of Git/GitHub?
-1.Working Directory
-2.Staging Area
-3.Local Repository
+Working Directory – The stage where you create or edit files in your project.
+Staging Area – Changes are selected and prepared to be saved using git add.
+Local Repository – The staged changes are permanently recorded as a commit
