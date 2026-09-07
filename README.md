@@ -18,4 +18,4 @@ Staging Area – Changes are selected and prepared to be saved using git add.
 Local Repository – The staged changes are permanently recorded as a commit
 Taken helped by 
 [Markdown Guide Cheat Sheet]
-(//www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com#basic-syntax0)
+(www.markdownguide.org/cheat-sheet/?utm_source=chatgpt.com#basic-syntax0)
