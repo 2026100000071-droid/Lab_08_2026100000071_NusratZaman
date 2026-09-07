@@ -15,7 +15,8 @@ Provides codes to Github.
 ## 6. What are the Stages of Git/GitHub?
 Working Directory – The stage where you create or edit files in your project.
 Staging Area – Changes are selected and prepared to be saved using git add.
-Local Repository – The staged changes are permanently recorded as a commit
+Local Repository – The staged changes are permanently recorded as a commit.
+
 Taken helped by 
 
 [Markdown Guide Cheat Sheet]
